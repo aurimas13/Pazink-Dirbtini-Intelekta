@@ -22,7 +22,7 @@
 
 📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto) - čia rasite įdomius grafikus ir fotografijas susijusias su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
 
-📌 **Kaip naudotis šia repozitorija**:
+📌 **Kaip naudotis?**:
 
 1. **Naršyti paskaitas**: 
 
