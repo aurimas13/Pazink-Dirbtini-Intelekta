@@ -18,7 +18,7 @@
 
 📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos)
 
-Čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir ``.pdf` formatu be komentarų.
+Čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir `.pdf` formatu be komentarų.
 
 📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma)
 
@@ -30,11 +30,11 @@
 
 📌 **Kaip naudotis šia repozitorija**:
 
-1. ***Naršyti paskaitas***: Eikite į **Paskaitos** katalogą ir pasirinkite pageidaujamą formatą: `.pptx` ar `.pdf`.
+1. **Naršyti paskaitas**: Eikite į ***Paskaitos*** katalogą ir pasirinkite pageidaujamą formatą: `.pptx` ar `.pdf`.
 
-2. ***Gaukite papildomą informaciją***: Eikite į **Papildoma** katalogą ir pasirinkite papildomą informaciją: sei norite daugiau sužinoti, eikite į jį.
+2. **Gaukite papildomą informaciją**: Eikite į ***Papildoma*** katalogą ir pasirinkite papildomą informaciją: sei norite daugiau sužinoti, eikite į jį.
 
-3. ***Peržiūrėti grafiką***: Naršykite **Foto** kataloge, kad rastumėte įdomias iliustracijas.
+3. **Peržiūrėti grafiką**: Naršykite ***Foto*** kataloge, kad rastumėte įdomias iliustracijas.
 📢 Pastaba: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju (`Aurimu Aleksandru`).
 
 Linkiu produktyvaus mokymosi ir atradimų **Dirbtinio Intelekto** pasaulyje! 🚀🌍🌟
