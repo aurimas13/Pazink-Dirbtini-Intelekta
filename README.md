@@ -9,7 +9,7 @@
 <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
 </p>
 
-<p align="center" > <b> 📚 Nori pažinti Dirbtinį Intelektą? </b> </p>
+<p align="center" > <b> 📚 Nori pažinti Dirbtinį Intelektą? </b>
 
 Šioje repozitorijoje rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"*.
 
@@ -36,6 +36,8 @@
     - Naršykite `Foto` kataloge, kad rastumėte įdomias iliustracijas.
 
 📢 **Pastaba**: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju (`Aurimu Aleksandru`).
+
+</p>
 
 <p align=center>
 Sveiki atvykę į <b>Dirbtinio Intelekto</b> pasaulį! 🚀🌍🌟
