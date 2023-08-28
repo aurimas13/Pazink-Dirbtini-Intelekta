@@ -12,6 +12,8 @@
 
 📚 **Nori pažinti Dirbtinį Intelektą?**
 
+</p>
+
 Šioje repozitorijoje rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"*.
 
 📂 **Struktūra**:
@@ -38,4 +40,6 @@
 
 📢 **Pastaba**: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju (`Aurimu Aleksandru`).
 
+<p align=center>
 Sveiki atvykę į **Dirbtinio Intelekto** pasaulį! 🚀🌍🌟
+</p>
