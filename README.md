@@ -1,4 +1,3 @@
-# Pazink-Dirbtini-Intelekta
 <p align=center>
   <img height="444px" src="https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/blob/main/Foto/protas.png"/>
 </p>
@@ -20,21 +19,25 @@
 
 📂 **Struktūra ir nuorodos**:
 
-📊 Paskaitos
+📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos)
 
-Čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: .pptx formatu su komentarais lietuvių kalba ir .pdf formatu be komentarų.
-📘 Papildoma
+Čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir ``.pdf` formatu be komentarų.
 
-Šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias AI srityje.
-📸 Foto
+📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma)
 
-Čia rasite įdomias grafikas ir atvaizdus susijusius su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
+Šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias drbtinio itnelekto  srityje.
 
-📌 Kaip naudotis šiuo repozitorijumu:
+📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto)
 
-Naršyti paskaitas: Eikite į Paskaitos katalogą ir pasirinkite pageidaujamą formatą: .pptx ar .pdf.
-Gauti papildomą informaciją: Jei norite daugiau sužinoti, eikite į Papildoma katalogą.
-Peržiūrėti grafiką: Naršykite Foto kataloge, kad rastumėte įdomias iliustracijas.
-📢 Pastaba: Jei turite klausimų ar pastabų apie šį repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju.
+Čia rasite įdomius grafikus ir fotografijas susijusias su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
 
-Linkime produktyvaus mokymosi ir atradimų Dirbtinio Intelekto pasaulyje! 🚀🌍🌟
+📌 **Kaip naudotis šia repozitorija**:
+
+1. ***Naršyti paskaitas***: Eikite į **Paskaitos** katalogą ir pasirinkite pageidaujamą formatą: `.pptx` ar `.pdf`.
+
+2. ***Gaukite papildomą informaciją***: Eikite į **Papildoma** katalogą ir pasirinkite papildomą informaciją: sei norite daugiau sužinoti, eikite į jį.
+
+3. ***Peržiūrėti grafiką***: Naršykite **Foto** kataloge, kad rastumėte įdomias iliustracijas.
+📢 Pastaba: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju (`Aurimu Aleksandru`).
+
+Linkiu produktyvaus mokymosi ir atradimų **Dirbtinio Intelekto** pasaulyje! 🚀🌍🌟
