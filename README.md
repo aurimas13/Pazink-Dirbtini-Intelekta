@@ -35,7 +35,7 @@
 
     - Naršykite `Foto` kataloge, kad rastumėte įdomias iliustracijas.
 
-📢 **Pastaba**: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su mokytoju (`Aurimu Aleksandru`).
+📢 **Pastaba**: Jei turite klausimų ar pastabų apie šią repozitoriją, prašome atidaryti naują problemą arba susisiekti su manimi (`Aurimu Aleksandru`).
 
 <p align=center>
 Sveiki atvykę į <b>Dirbtinio Intelekto</b> pasaulį! 🚀🌍🌟
