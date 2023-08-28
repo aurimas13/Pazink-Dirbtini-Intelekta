@@ -9,9 +9,7 @@
 <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
 </p>
 
-📚 **Nori pažinti Dirbtinį Intelektą?**
-
-</p>
+<p align="center" > <b> 📚 Nori pažinti Dirbtinį Intelektą? </b> </p>
 
 Šioje repozitorijoje rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"*.
 
