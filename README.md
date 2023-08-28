@@ -9,17 +9,17 @@
 <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
 </p>
 
-<!-- <p align="center" > <b> 📚 Apžvalga </b> </p> -->
+<p align="center" > <b> 📚 Apžvalga </b> </p>
 
-Šioje repozitorijoje rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"*.
+Čia rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"* nuo paskaitų dviems formatais iki papildomos medžiagos ar grafikos bei vizualų.
 
 📂 **Struktūra**:
 
-📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos) - čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir `.pdf` formatu be komentarų.
+📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos) - paskaitų medžiaga. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir `.pdf` formatu be komentarų.
 
-📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma) - šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias drbtinio itnelekto  srityje.
+📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma) - šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias drbtinio itnelekto srityje.
 
-📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto) - čia rasite įdomius grafikus ir fotografijas susijusias su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
+📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto) - įdomūs grafikai ir fotografijos susijusios su kursu. Kai kurie iš jų yra lietuvių kalba, kiti - anglų.
 
 📌 **Kaip naudotis?**:
 
