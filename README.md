@@ -14,19 +14,13 @@
 
 Šioje repozitorijoje rasite visus reikiamus išteklius kursui *"Nori pažinti Dirbtinį Intelektą?"*.
 
-📂 **Struktūra ir nuorodos**:
+📂 **Struktūra**:
 
-📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos)
+📊 [Paskaitos](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Paskaitos) - čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir `.pdf` formatu be komentarų.
 
-- Čia rasite paskaitų medžiagą. Kiekviena paskaita turi dvi versijas: `.pptx` formatu su komentarais lietuvių kalba, o kai kur anglų ir `.pdf` formatu be komentarų.
+📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma) - šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias drbtinio itnelekto  srityje.
 
-📘 [Papildoma](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Papildoma)
-
-- Šiame kataloge yra papildoma informacija, kuri padės jums gilinti savo žinias drbtinio itnelekto  srityje.
-
-📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto)
-
-- Čia rasite įdomius grafikus ir fotografijas susijusias su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
+📸 [Foto](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta/tree/main/Foto) - čia rasite įdomius grafikus ir fotografijas susijusias su kurso tema. Kai kurie iš jų yra lietuvių kalba, kiti - anglų kalba.
 
 📌 **Kaip naudotis šia repozitorija**:
 
