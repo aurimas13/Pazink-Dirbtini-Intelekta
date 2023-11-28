@@ -6,7 +6,7 @@
 <a href="https://img.shields.io/github/last-commit/aurimas13/Pazink-Dirbtini-Intelekta"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Pazink-Dirbtini-Intelekta?style=social"/></a>
 <a href="https://img.shields.io/github/stars/aurimas13/Pazink-Dirbtini-Intelekta"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Pazink-Dirbtini-Intelekta?style=social"/></a>
 <a href="https://img.shields.io/github/forks/aurimas13/Pazink-Dirbtini-Intelekta"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Pazink-Dirbtini-Intelekta?style=social"/></a>
-<a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
+<a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 </p>
 
 <p align="center" > <b> 📚 Apžvalga </b> </p>
